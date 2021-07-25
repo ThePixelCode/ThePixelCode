@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @misterbug5
 - I’m interested in web and software development
 - I’m currently learning Django and Spring
+- I'm studing computer science in National University of Colombia
