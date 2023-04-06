@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @misterbug5
-- I’m interested in web and software development
-- I’m currently learning Django and Spring
+- 👋 Hi, I’m @ThePixelCode
+- I’m a programmer lerning rust, svelte and godot
 - I'm studing computer science in National University of Colombia
