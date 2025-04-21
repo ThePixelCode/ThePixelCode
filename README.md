@@ -1,3 +1,5 @@
-- 👋 Hi, I’m @ThePixelCode
-- I’m a programmer learning rust, svelte and godot
+- 👋 Hi, I’m @ThePixelCode, Wellcome to this graveyard of unfinished projects
+- Fan of Rust, not associated in any way to the Rust foundation
+- Certified _EcmaScript_ Hater
+- Learning Lua, Svelte and Godot
 - I'm studying computer science in National University of Colombia
