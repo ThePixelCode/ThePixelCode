@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ThePixelCode
-- I’m a programmer lerning rust, svelte and godot
-- I'm studing computer science in National University of Colombia
+- I’m a programmer learning rust, svelte and godot
+- I'm studying computer science in National University of Colombia
